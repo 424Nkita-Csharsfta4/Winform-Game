@@ -1,0 +1,17 @@
+C:\Users\tvc\source\repos\Game-Learn-Js\bin\Debug\Game-Learn-Js.exe.config
+C:\Users\tvc\source\repos\Game-Learn-Js\bin\Debug\Game-Learn-Js.exe
+C:\Users\tvc\source\repos\Game-Learn-Js\bin\Debug\Game-Learn-Js.pdb
+C:\Users\tvc\source\repos\Game-Learn-Js\obj\Debug\Game-Learn-Js.csproj.AssemblyReference.cache
+C:\Users\tvc\source\repos\Game-Learn-Js\obj\Debug\Game_Learn_Js.Form1.resources
+C:\Users\tvc\source\repos\Game-Learn-Js\obj\Debug\Game_Learn_Js.Properties.Resources.resources
+C:\Users\tvc\source\repos\Game-Learn-Js\obj\Debug\Game-Learn-Js.csproj.GenerateResource.cache
+C:\Users\tvc\source\repos\Game-Learn-Js\obj\Debug\Game-Learn-Js.csproj.CoreCompileInputs.cache
+C:\Users\tvc\source\repos\Game-Learn-Js\obj\Debug\Game-Learn-Js.exe
+C:\Users\tvc\source\repos\Game-Learn-Js\obj\Debug\Game-Learn-Js.pdb
+C:\Users\tvc\source\repos\Game-Learn-Js\obj\Debug\Game_Learn_Js.Aboutme.resources
+C:\Users\tvc\source\repos\Game-Learn-Js\obj\Debug\Game_Learn_Js.pravila.resources
+C:\Users\tvc\source\repos\Game-Learn-Js\obj\Debug\Game_Learn_Js.nachalo_game_history.resources
+C:\Users\tvc\source\repos\Game-Learn-Js\obj\Debug\Game_Learn_Js.LvLdisign.resources
+C:\Users\tvc\source\repos\Game-Learn-Js\obj\Debug\Game_Learn_Js.LvlDesign3.resources
+C:\Users\tvc\source\repos\Game-Learn-Js\obj\Debug\Game_Learn_Js.LvLfisign_2.resources
+C:\Users\tvc\source\repos\Game-Learn-Js\obj\Debug\AreneWar.Form1.resources
